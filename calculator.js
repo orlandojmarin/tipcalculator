@@ -1,3 +1,4 @@
+//Calculate Tip
 function calculateTip() {
     var billAmt = document.getElementById("billAmount").value;
     var serviceQual = document.getElementById("serviceQuality").value;
